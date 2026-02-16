@@ -1,9 +1,12 @@
-## Olá! Eu sou a Cristina Freitas
-Estou em transição de carreira e meu objetivo é ser um fullstack dev! Estou estudando no projeto Floripa Mais Tech da ACATE/PMF/SESI-SENAI. 
+## Olá! Eu sou a Cristina Freitas 💻
+Profissional com 18 anos de experiência no setor financeiro como Correspondente Bancária) e atualmente atuando na área da Radiologia.
+Participo do programa SCTEC/SENAI SC, em parceria com a ACATE e outras instituições do ecossistema de inovação de Santa Catarina.
 
-•	💻 Hoje trabalho como Consultora de Negócios
+•	💞 Apaixonada por novas tecnologias, aprender e ensinar.
 
-•	💞 Apaixonada por novas tecnologias, aprender e ensinar
+•	🛠️ Estou em transição de carreira para a área de Tecnologia, com foco em desenvolvimento de software.
+
+•	🌍 Meu objetivo é construir soluções robustas e atuar em projetos que façam a diferença na vida das pessoas, criando tecnologias que gerem impacto real e resolvam problemas concretos.
 
 ### Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40"/>

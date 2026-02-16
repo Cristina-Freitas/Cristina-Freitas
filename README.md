@@ -19,13 +19,11 @@ Estou em transição de carreira e meu objetivo é ser um fullstack dev! Estou e
 <a href="https://www.youtube.com/@CrisTina-ns1gp" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-  <a href="https://github.com/Cristina-Freitas">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cristina-Freitas&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800" />
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cristina-Freitas&show_icons=true&theme=dracula&cache_seconds=1800" />
-  </a>
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cristina-Freitas&theme=dracula" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cristina-Freitas&show_icons=true&theme=dracula" />
 </div>
-  
+
 ![Snake animation](https://raw.githubusercontent.com/Cristina-Freitas/Cristina-Freitas/output/github-contribution-grid-snake.svg)
 
 

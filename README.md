@@ -26,5 +26,6 @@ Estou em transição de carreira e meu objetivo é ser um fullstack dev! Estou e
 </a>
 </div>
   
-![Snake animation](https://raw.githubusercontent.com/Cristina-Freitas/Cristina-Freitas/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Cristina-Freitas/Cristina-Freitas/output/github-contribution-grid-snake.svg)
+
 

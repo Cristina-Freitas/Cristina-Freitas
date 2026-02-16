@@ -21,8 +21,8 @@ Estou em transição de carreira e meu objetivo é ser um fullstack dev! Estou e
 
 <div>
 <a href="https://github.com/Cristina-Freitas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristina-Freitas&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristina-Freitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristina-Freitas&layout=compact&theme=dracula&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristina-Freitas&show_icons=true&theme=dracula&cache_seconds=1800" />
 </a>
 </div>
   

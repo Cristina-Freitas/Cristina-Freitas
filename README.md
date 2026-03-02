@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Cristina Freitas 💻
 Profissional com 18 anos de experiência no setor financeiro como Correspondente Bancária, atualmente atuando na área da Radiologia em uma UPA.
-Participo do programa SCTEC/SENAI SC, em parceria com a ACATE e outras instituições do ecossistema de inovação de Santa Catarina.
+Participo do programa SCTEC/SENAI SC/LAB365, em parceria com a ACATE e outras instituições do ecossistema de inovação de Santa Catarina.
 
 •	💞 Apaixonada por novas tecnologias, aprender e ensinar.
 

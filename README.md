@@ -32,6 +32,8 @@ Participo do programa SCTEC/SENAI SC/LAB365, em parceria com a ACATE e outras in
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cristina-Freitas&show_icons=true&theme=dracula" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Cristina-Freitas/Cristina-Freitas/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Cristina-Freitas/Cristina-Freitas/output/github-contribution-grid-snake.svg">
+
 
 

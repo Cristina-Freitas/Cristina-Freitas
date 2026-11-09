@@ -10,7 +10,7 @@ Participo do programa SCTEC/SENAI SC/LAB365, em parceria com a ACATE e outras in
 
 ### Ferramentas e Tecnologias
 
-<table>
+<table>  
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/></td>
@@ -19,13 +19,7 @@ Participo do programa SCTEC/SENAI SC/LAB365, em parceria com a ACATE e outras in
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40"/></td>
   </tr>
-</table>
-
-
-
-### Estou me desenvolvendo em
-
-<table>
+  
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40"/></td>
@@ -34,8 +28,16 @@ Participo do programa SCTEC/SENAI SC/LAB365, em parceria com a ACATE e outras in
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40"/></td>
   </tr>
-</table>
 
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" title="NumPy"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" title="Jupyter"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="40" title="Google Colab"/></td>
+  </tr>
+</table>
 
 
 ### Contate-me!
@@ -49,7 +51,7 @@ Participo do programa SCTEC/SENAI SC/LAB365, em parceria com a ACATE e outras in
 ### 📊 GitHub Stats
 <div>
   <img height="180" src="https://github-readme-stats-lime-iota-99.vercel.app/api/top-langs/?username=Cristina-Freitas&layout=compact&theme=dracula" />
-  <img height="170" src="https://github-readme-stats-lime-iota-99.vercel.app/api?username=Cristina-Freitas&show_icons=true&theme=dracula" />
+  <img height="165" src="https://github-readme-stats-lime-iota-99.vercel.app/api?username=Cristina-Freitas&show_icons=true&theme=dracula" />
 </div>
 
 ## 🐍 Contribution Snake

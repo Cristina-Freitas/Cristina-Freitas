@@ -50,7 +50,7 @@ Participo do programa SCTEC/SENAI SC/LAB365, em parceria com a ACATE e outras in
 
 ### 📊 GitHub Stats
 <div>
-  <img height="180" src="https://github-readme-stats-lime-iota-99.vercel.app/api/top-langs/?username=Cristina-Freitas&layout=compact&theme=dracula" />
+  <img height="180" src="https://github-readme-stats-lime-iota-99.vercel.app/api/top-langs/?username=Cristina-Freitas&layout=compact&theme=dracula&hide=jupyter%20notebook" />
   <img height="165" src="https://github-readme-stats-lime-iota-99.vercel.app/api?username=Cristina-Freitas&show_icons=true&theme=dracula" />
 </div>
 

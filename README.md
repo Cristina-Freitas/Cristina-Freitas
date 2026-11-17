@@ -1,12 +1,16 @@
-## Olá! Eu sou a Cristina Freitas 💻
-Profissional com 18 anos de experiência no setor financeiro como Correspondente Bancária, atualmente atuando na área da Radiologia em uma UPA.
-Participo do programa SCTEC/SENAI SC/LAB365, em parceria com a ACATE e outras instituições do ecossistema de inovação de Santa Catarina.
+# Olá! Eu sou Cristina Freitas 💻
 
-•	💞 Apaixonada por novas tecnologias, aprender e ensinar.
+**Desenvolvimento Full Stack | Inteligência Artificial | Automação**
 
-•	🛠️ Estou em transição de carreira para a área de Tecnologia, com foco em desenvolvimento de software.
+Tecnóloga em Gestão Financeira, com formação em Desenvolvimento Full Stack e Inteligência Artificial aplicada à Análise Preditiva.
 
-•	🌍 Meu objetivo é construir soluções robustas e atuar em projetos que façam a diferença na vida das pessoas, criando tecnologias que gerem impacto real e resolvam problemas concretos.
+Minha experiência nos setores financeiro e de saúde, aliada à tecnologia, permite desenvolver soluções digitais com visão estratégica de negócios.
+
+- 🚀 Desenvolvimento de aplicações web e sistemas de gestão.
+- 🤖 Inteligência artificial, Machine Learning e análise de dados.
+- ⚙️ Integração de sistemas e automação de processos.
+
+**Transformando desafios reais em soluções tecnológicas.**
 
 ### Ferramentas e Tecnologias
 

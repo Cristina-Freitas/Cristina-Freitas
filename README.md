@@ -12,7 +12,7 @@ Minha experiência nos setores financeiro e de saúde, aliada à tecnologia, per
 
 **Transformando desafios reais em soluções tecnológicas.**
 
-🚀 [Conheça meus projetos](#-projetos-em-destaque)
+🚀 [Conheça meus projetos](https://github.com/Cristina-Freitas#pinned)
 
 ### Ferramentas e Tecnologias
 

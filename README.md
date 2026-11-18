@@ -1,6 +1,6 @@
 # Olá! Eu sou Cristina Freitas 💻
 
-**Desenvolvimento Full Stack | Inteligência Artificial | Automação**
+## Desenvolvimento Full Stack | Inteligência Artificial | Automação
 
 Tecnóloga em Gestão Financeira, com formação em Desenvolvimento Full Stack e Inteligência Artificial aplicada à Análise Preditiva.
 
@@ -11,6 +11,8 @@ Minha experiência nos setores financeiro e de saúde, aliada à tecnologia, per
 - ⚙️ Integração de sistemas e automação de processos.
 
 **Transformando desafios reais em soluções tecnológicas.**
+
+🚀 [Conheça meus projetos](#-projetos-em-destaque)
 
 ### Ferramentas e Tecnologias
 
